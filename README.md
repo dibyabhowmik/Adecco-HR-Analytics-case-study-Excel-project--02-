@@ -104,4 +104,32 @@ The dashboard is designed to support interactive filtering through Excel Slicers
 - Business Travel
 - Job Role
 
-These filters allow users to explore workforce metrics across different employee groups. Connected PivotTables and PivotCharts can respond
+These filters allow users to explore workforce metrics across different employee groups. Connected PivotTables and PivotCharts can respond to slicer selections, making the dashboard more useful for comparative analysis.
+
+**Dashboard Design**
+
+- Organized KPI cards at the top for quick performance monitoring.
+- Arranged charts in a structured layout for easier comparison.
+- Used consistent formatting, colors, and chart titles.
+- Consolidated important findings into one dashboard for convenient HR reporting.
+
+## Key Insights
+
+- Overall employee attrition was approximately **16.1%**.
+- Sales had the highest departmental attrition at approximately **20.6%**.
+- Sales Representatives showed particularly high attrition at approximately **39.8%**.
+- Employees working overtime had substantially higher attrition (30.5%) than those who did not (10.4%).
+- Single employees had higher attrition (25.5%) than married (12.5%) or divorced employees (10.1%).
+- Employees with no stock option had higher attrition (24.4%) than most employees with stock options.
+- The average age of employees who left was approximately **33.6 years**.
+- The average monthly income of employees who left was approximately **4,787**.
+- Frequent business travel was associated with higher attrition than non-travel.
+- The correlations with Age, Monthly Income, and Years at Company were negative but relatively weak, indicating that these variables alone do not explain attrition.
+
+## Business Takeaway
+
+The analysis indicates that employee attrition is associated with multiple workforce factors rather than a single variable. Overtime, job role, marital status, stock options, business travel, and employee involvement provide useful areas for HR teams to investigate when designing retention initiatives.
+
+The Excel dashboard brings these findings together through KPI cards, charts, and interactive filtering, helping HR teams monitor workforce patterns, compare employee groups, and identify areas that may require further investigation.
+
+Overall, the project demonstrates how Excel-based data analysis and visualization can transform raw HR data into meaningful insights that support data-driven workforce and employee retention decisions.

@@ -5,50 +5,50 @@ This project analyzes employee attrition and workforce characteristicsusing the 
 performance, work-life balance, and attrition.
 The analysis was designed to identify patterns associated with employee turnover and provide data-driven insights that can support employee retention strategies.
 
-**Objectives:**
+•	**Objectives:**
 
 
-Measure the overall employee attrition rate.
+1.	Measure the overall employee attrition rate.
 
-Identify departments and job roles with higher attrition.
+2.	Identify departments and job roles with higher attrition.
 
-Analyze the relationship between compensation, age, tenure, and
-attrition.
+3.	Analyze the relationship between compensation, age, tenure, and
+4.	attrition.
 
-Examine how overtime, job involvement, marital status, business
-travel, and stock options relate to attrition.
+5.	Examine how overtime, job involvement, marital status, business
+6.	travel, and stock options relate to attrition.
 
-Analyze employee satisfaction and performance patterns.
+7.	Analyze employee satisfaction and performance patterns.
 
-Identify factors that may help HR teams prioritize retention
-efforts.
+8.	Identify factors that may help HR teams prioritize retention
+9.	efforts.
 
-**Tools & Techniques Used:**
+•	**Tools & Techniques Used:**
 
 
-Microsoft Excel
+1.	Microsoft Excel
 
-Data cleaning and validation
+2.	Data cleaning and validation
 
-Excel formulas
+3.	Excel formulas
 
-PivotTables and PivotCharts
+4.	PivotTables and PivotCharts
 
-Conditional analysis
+5.	Conditional analysis
 
-Correlation analysis
+6.	Correlation analysis
 
-Scatter plots and trendlines
+7.	Scatter plots and trendlines
 
-AVERAGEIF / AVERAGE
+8.	AVERAGEIF / AVERAGE
 
-IF-based helper fields
+9.	IF-based helper fields
 
-Sorting and filtering
+10.	Sorting and filtering
 
-Data visualization
+11.	Data visualization
 
-**Process:**
+•	**Process:**
 
 
 **1. Data Preparation:**
@@ -70,7 +70,7 @@ Examined satisfaction, performance, training, and work-life balance.
 Correlation analysis was used to examine relationships between attrition
 and selected numerical variables.
 
-**Key correlations with attrition: **
+•	**Key correlations with attrition: **
 
 - Age: -0.159 - Monthly Income: -0.160 - Years at Company: -0.134
 
@@ -78,7 +78,7 @@ Scatter plots with trendlines were also used to investigate
 relationships such as Age vs Job Satisfaction, Work-Life Balance vs
 Performance Rating, and Years at Company vs Job Satisfaction.
 
-**Key Insights:**
+•	**Key Insights:**
 
 
 Overall employee attrition was approximately 16.1%.
@@ -101,7 +101,7 @@ Frequent business travel was associated with higher attrition than non-travel.
 
 The correlations with Age, Monthly Income, and Years at Company were negative but relatively weak, indicating that these variables alone do not explain attrition.
 
-Business Takeaway:
+•	Business Takeaway:
 
 The analysis indicates that employee attrition is associated with multiple workforce factors rather than a single variable. Overtime, job role, marital status, stock options, business travel, and employee involvement provide useful areas for HR teams to investigate when
 designing retention initiatives.
